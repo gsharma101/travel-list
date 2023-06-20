@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gsharma101/travel-list/static/css/main.825a3e8f.css",
+    "main.js": "/gsharma101/travel-list/static/js/main.c17d4ca6.js",
+    "index.html": "/gsharma101/travel-list/index.html",
+    "main.825a3e8f.css.map": "/gsharma101/travel-list/static/css/main.825a3e8f.css.map",
+    "main.c17d4ca6.js.map": "/gsharma101/travel-list/static/js/main.c17d4ca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825a3e8f.css",
+    "static/js/main.c17d4ca6.js"
+  ]
+}
